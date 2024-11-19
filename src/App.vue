@@ -776,8 +776,5 @@ h3 {
   .footer a:hover {
     color: #fff;
   }
-<<<<<<< HEAD
 </style>
-=======
-</style>
->>>>>>> ac4add776709d989570514e939eab81a4b11ff98
+
